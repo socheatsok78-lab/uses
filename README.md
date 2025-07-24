@@ -4,7 +4,7 @@ A shared-workflow for various tasks for [@socheatsok78](https://github.com/soche
 ## Example
 Here is an example of how to use this workflow in your repository. It can be used in other workflows by calling it with the appropriate inputs.
 
-### `.github/workflows/use-docker.yml`
+### `.github/workflows/docker.yml`
 ```yaml
 name: Docker
 
