@@ -23,7 +23,7 @@ concurrency:
 
 jobs:
   docker:
-    uses: socheatsok78/uses/.github/workflows/use-docker.yml@main
+    uses: socheatsok78/uses/.github/workflows/docker-buildx-bake.yml@main
     permissions:
       contents: read
       packages: write
